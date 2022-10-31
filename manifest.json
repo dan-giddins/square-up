@@ -15,9 +15,6 @@
       "css": [
         "styles.css"
       ],
-      "js": [
-        "content.js"
-      ],
       "matches": [
         "https://*/*"
       ]
